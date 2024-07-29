@@ -1,0 +1,22 @@
+{
+  "name": "interfaces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "@types/express": "^4.17.21"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "package.json"
+  ]
+}
