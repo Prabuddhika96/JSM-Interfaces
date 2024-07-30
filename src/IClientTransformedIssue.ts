@@ -4,4 +4,6 @@ export interface IClientTransformedIssue {
   title: string;
   description: string;
   priority: string;
+  isCreated?: boolean;
+  isUpdated?: boolean;
 }
