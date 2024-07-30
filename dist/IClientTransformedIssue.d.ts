@@ -4,7 +4,7 @@ export interface IClientTransformedIssue {
     title: string;
     description: string;
     priority: string;
-    isCreated?: boolean;
-    isUpdated?: boolean;
+    isCreated: boolean;
+    isUpdated: boolean;
 }
 //# sourceMappingURL=IClientTransformedIssue.d.ts.map
